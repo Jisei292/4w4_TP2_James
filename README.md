@@ -4,5 +4,6 @@
 - admin
 Remettre sur LEA: Un fichier texte contenant 
 deux liens:
--https://github.com/Jisei292/labo-7 (github) & http://localhost/4w4/ (site)
--https://e1926527.webdev.cmaisonneuve.qc.ca/Design/
+-https://github.com/Jisei292/Exercice-4-James (github) & http://localhost/4w4-3/
+(site webdev)
+-https://e1926527.webdev.cmaisonneuve.qc.ca/4w4/
